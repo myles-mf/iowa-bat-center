@@ -1,0 +1,17 @@
+# Design prototype — not for production
+Iowa Bat Center (1)/
+logo.png
+
+# Dependencies
+api/node_modules/
+
+# Local env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/

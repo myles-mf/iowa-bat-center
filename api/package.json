@@ -1,0 +1,9 @@
+{
+  "name": "iowa-bat-center-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for Iowa Bat Center contact form",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
