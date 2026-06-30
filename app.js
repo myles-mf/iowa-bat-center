@@ -129,7 +129,7 @@
       return '' +
         '<article class="bat-card" data-bat="' + b.id + '">' +
           '<div class="bat-card__media">' +
-            '<img src="images/bat-' + b.id + '.svg" alt="' + esc(b.name) + ' (' + esc(b.sci) + ')" width="400" height="300" loading="lazy" class="bat-card__img">' +
+            '<img src="images/bat-' + b.id + '.webp" alt="' + esc(b.name) + ' (' + esc(b.sci) + ')" width="400" height="300" loading="lazy" class="bat-card__img">' +
             '<span class="bat-card__status ' + b.cls + '"><i class="dot"></i>' + esc(b.status) + '</span>' +
           '</div>' +
           '<div class="bat-card__body">' +
